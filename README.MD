@@ -28,7 +28,7 @@ Order sequence, the saga:
 ### Start compose
 * Navigate to *./infrastructure/kafka-only-docker-compose* directory
 * `docker-compose up`
-## Start the microservices
+### Start the microservices
 * This are 3 spring boot microservices written in kafka
 * Start `com.oriaxx77.micoserviceplay.order.OrderMicroservice`
 * Start `com.oriaxx77.micoserviceplay.payment.PaymentMicroservice`
